@@ -6,7 +6,7 @@
 # catalog-version 1.1a
 Name:		texlive-bibtopic
 Version:	1.1a
-Release:	8
+Release:	9
 Summary:	Include multiple bibliographies in a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibtopic
