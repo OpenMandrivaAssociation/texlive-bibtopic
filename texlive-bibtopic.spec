@@ -3,7 +3,7 @@ Version:	15878
 Release:	1
 Summary:	Include multiple bibliographies in a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibtopic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bibtopic
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibtopic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibtopic.doc.r%{version}.tar.xz
